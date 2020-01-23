@@ -5,12 +5,16 @@
 #include <iostream>
 #include "utils.cpp"
 
+//container for item data-->will become part of button component in GUI phase
 struct item {
     std::string name;
     double price;
     std::string special_instructions;
-    item(std::string& s)
+    explicit item(std::string& s)
     {
+      // find the three member values in the string 
+      // using the fact that they are seperated 
+      // by a space and assign them respectively
       int first_idx=0;
       int substr_idx = s.find(' ');
       name=s.substr(first_idx, substr_idx);
