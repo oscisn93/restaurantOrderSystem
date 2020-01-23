@@ -1,0 +1,3 @@
+# restaurantOrderSystem
+
+A restaurant ordering system program that will automatically generate electronic receipts to keep track of orders efeciently. Orders will be rendered in three modes- Preparers, Servers, Managers, each of which will have access dynamically updating to certain attributes on the receipt. Each mode will generally show when an order is entered, if it has been started, whether it has been served, and whether a table is closed out. Managers will be able to keep track of how fast food is being delivered and view other analytics regarding performance(and possibly in future versions, analytics regarding inventory may also be assesed.
