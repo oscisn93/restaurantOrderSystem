@@ -1,10 +1,10 @@
 janedoe
-shrimpcocktail 995 noonions
-surfandturftacos 1095 grilledonions
-campechana 1395 
-campechana 1395 nojaiva
-campechana 1395 
-cevichetostada 895 
-cevichetostada 895 
-cevichetostada 895 
-aguachilesverdes 2595 
+burger 995 noonions
+tacos 1095 grilledonions
+pecanpie 1395 
+pecanpie 1395 nojaiva
+pecanpie 1395 
+ceviche 895 
+ceviche 895 
+ceviche 895 
+aguachiles 2595 
